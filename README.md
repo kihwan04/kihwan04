@@ -93,6 +93,15 @@ Oracle Cloud 주차 위험도 데이터를 모바일 앱과 Kakao 지도·길안
 
 [<img src="assets/portfolio/fitfoot/fitfoot-ui-design.png" width="518" alt="Fitfoot 화면 시안. FUTPAIR라는 이름으로 표기된 발 측정 결과, 풋살화 추천, AI 풋볼 코치 등 7개 화면">](assets/portfolio/fitfoot/fitfoot-ui-design.png)
 
+### [몽스케이프](https://github.com/kihwan04/Mongscape) · Mongscape
+
+키보드나 웹캠 몸동작으로 플레이하는 Unity 기반 Windows 3레인 운동 러너입니다. 광산과 감옥을 달리며 장애물을 피하고, 코인을 모으며 경찰의 추격에서 벗어납니다. 운동 모드에서는 몸동작을 바탕으로 추정한 소모 칼로리를 화면에 표시합니다.
+
+<img src="https://raw.githubusercontent.com/kihwan04/Mongscape/f7e918186f13ad4ca6662ac02f2693d741310fdb/docs/images/gameplay/mine-run.png" width="345" alt="코인을 모으고 경찰의 접근 상태를 확인하는 광산 1인칭 주행 화면">
+<img src="https://raw.githubusercontent.com/kihwan04/Mongscape/f7e918186f13ad4ca6662ac02f2693d741310fdb/docs/images/gameplay/police-capture.png" width="345" alt="광산에서 경찰에게 붙잡히는 원숭이 캐릭터">
+
+[플레이 화면과 프로젝트 안내](https://github.com/kihwan04/Mongscape/blob/f7e918186f13ad4ca6662ac02f2693d741310fdb/README.md#플레이-화면)
+
 ## AI-assisted Development Workflow
 
 1. 문제·사용자 상황 정의
