@@ -10,7 +10,7 @@ Problem → User Flow → Requirements → Policy → Prototype → QA → Itera
 
 - Clean Architecture 관점에서 domain·application/data·presentation 책임을 분리
 - Oracle_이음에서 GitFlow, feature branch, PR, staging·QA 흐름 적용
-- FUTPAIR에서 FastAPI·OpenAPI 계약으로 모바일·서버 요구사항 경계 관리
+- Fitfoot에서 FastAPI·OpenAPI 계약으로 모바일·서버 요구사항 경계 관리
 - AI는 구현 가속에 활용하고, 저는 요구사항·우선순위·예외조건·Acceptance Criteria와 검증 결과를 책임
 
 ## Featured Projects
@@ -83,11 +83,15 @@ Oracle Cloud 주차 위험도 데이터를 모바일 앱과 Kakao 지도·길안
 
 [조약돌 앱 시연 하이라이트 (MP4)](assets/portfolio/oracle-ieum/joyakdol-app-demo.mp4)에서 시작 설정, 목적지 주변 주차장 후보, 주차 확인, 정차 위험 안내를 볼 수 있습니다.
 
-### FUTPAIR / SoccerMarketProject · In Progress MVP
-발 측정값과 착화 선호를 바탕으로 풋살화 추천과 AI Coach를 제공하는 진행 중 MVP입니다.
+### Fitfoot · 개발 중
 
-- My role: 사용자 흐름, 촬영 readiness·fallback 정책, AI Coach 요구사항, API 계약과 QA 기준
-- Tech: Expo React Native, TypeScript, FastAPI, PostgreSQL, Supabase, OpenAPI, RLS
+발 길이·발볼 측정값과 착화 선호를 바탕으로 풋살화를 추천하고, AI 풋볼 코치를 제공하는 모바일 MVP를 개발 중입니다.
+
+- **담당** — 사용자 흐름, 촬영 가능 여부와 실패 시 대체 흐름, AI 코치 요구사항, API 계약과 QA 기준을 정의하고 있습니다.
+- **화면 설계** — 홈, 발 측정 결과, 추천 신발, AI 풋볼 코치, 질문하기, 포지션 분석 결과, 마이페이지를 설계했습니다.
+- **기술** — Expo React Native, TypeScript, FastAPI, PostgreSQL, Supabase, OpenAPI, RLS
+
+[<img src="assets/portfolio/fitfoot/fitfoot-ui-design.png" width="518" alt="Fitfoot 화면 시안. FUTPAIR라는 이름으로 표기된 발 측정 결과, 풋살화 추천, AI 풋볼 코치 등 7개 화면">](assets/portfolio/fitfoot/fitfoot-ui-design.png)
 
 ## AI-assisted Development Workflow
 
