@@ -75,6 +75,14 @@ Oracle Cloud 주차 위험도 데이터를 모바일 앱과 Kakao 지도·길안
 - Tech: FastAPI, Oracle Autonomous Database/Spatial, Expo React Native, Kakao Maps, OCI, EAS
 - Evidence: 현재 데이터 기준 위험 상황 판정 완료 · API pytest 46개 · 모바일 Jest 61개
 
+#### 조약돌 앱 화면 설계와 시연
+
+화면 설계에는 시작 설정, 지도에서 주차장 찾기, 주차 확인, 위험도 안내, 길안내와 알림까지 12개 화면을 담았습니다.
+
+[<img src="assets/portfolio/oracle-ieum/joyakdol-ui-design.png" width="540" alt="조약돌 앱의 로그인, 지도, 주차 확인, 위험도, 길안내, 알림 등 12개 화면 설계">](assets/portfolio/oracle-ieum/joyakdol-ui-design.png)
+
+[조약돌 앱 시연 하이라이트 (MP4)](assets/portfolio/oracle-ieum/joyakdol-app-demo.mp4)에서 시작 설정, 목적지 주변 주차장 후보, 주차 확인, 정차 위험 안내를 볼 수 있습니다.
+
 ### FUTPAIR / SoccerMarketProject · In Progress MVP
 발 측정값과 착화 선호를 바탕으로 풋살화 추천과 AI Coach를 제공하는 진행 중 MVP입니다.
 
