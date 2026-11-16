@@ -53,12 +53,20 @@ Problem → User Flow → Requirements → Policy → Prototype → QA → Itera
 
 </details>
 
-### [Festival52](https://github.com/kihwan04/Festival52) · Current Project / Field Use
-축제 현장에서 직접 활용할 테이블 QR 주문·포장 주문·결제 확인·조리·전달·재고·매출 운영 웹앱입니다.
+### [컴콩닥](https://github.com/kihwan04/Festival52) · 축제 QR 주문·운영 시스템
+축제 부스에서 테이블·포장 QR 주문을 받고 입금 확인부터 조리, 전달까지 관리한 웹앱입니다.
 
-- My role: 제품 흐름, 요구사항, 도메인 정책, 운영 예외조건, QA 기준 정의
-- Tech: Next.js/Vinext, React, TypeScript, Supabase, PostgreSQL, Zod, Web Push
-- Evidence: 53 domain tests, rendered HTML tests, production build 통과 · 실제 축제 활용 예정
+- **담당** — 제품 흐름, 요구사항, 도메인 정책, 운영 예외조건과 QA 기준을 정의했습니다.
+- **현장 운영** — 축제 3일 동안 QR 주문을 처리하며 당일 매출과 메뉴별 판매 수량을 바로 확인했습니다. 10월 1일 대시보드에는 매출 769,200원, 입금 확인 97건, 판매 147개가 기록됐습니다.
+- **정산 결과** — 3일 운영 후 부스 자리 비용을 포함한 운영비를 정산해 **30만 원의 이익**을 남겼습니다.
+- **고객 대기 경험** — 음식이 준비되는 동안 손님이 즐길 수 있도록 주문 현황에 랜덤 타이밍 미니게임을 넣었습니다. 주문당 3회 도전할 수 있고, 성공하면 무료 안주 1개를 받을 수 있습니다.
+- **기술** — Next.js/Vinext, React, TypeScript, Supabase, PostgreSQL, Zod, Web Push
+- **개발 검증** — 도메인 테스트 53개, HTML 렌더링 테스트 및 프로덕션 빌드 통과
+
+<img src="https://raw.githubusercontent.com/kihwan04/Festival52/main/docs/images/festival-operations/sales-dashboard.jpg" width="330" alt="축제 당일 매출과 메뉴별 판매 수량이 표시된 운영 대시보드">
+<img src="https://raw.githubusercontent.com/kihwan04/Festival52/main/docs/images/festival-operations/timing-minigame.png" width="290" alt="주문 대기 중 이용하는 랜덤 타이밍 미니게임">
+
+[현장 운영 결과와 고객·운영자 화면 전체 보기](https://github.com/kihwan04/Festival52#축제-현장-운영-결과)
 
 ### [Oracle_이음](https://github.com/kihwan04/Oracle_ieum) · Flagship Team Project
 Oracle Cloud 주차 위험도 데이터를 모바일 앱과 Kakao 지도·길안내로 연결한 팀 프로젝트입니다.
